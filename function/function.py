@@ -100,3 +100,6 @@ print(student21.marks)
 print(student21.name[0:7],"Your average marks are ",student21.average())
 
 print("After learning/revising the git commit command")
+
+
+print("After learning/revising the git commit command for git diff only")
