@@ -103,3 +103,8 @@ print("After learning/revising the git commit command")
 
 
 print("After learning/revising the git commit command for git diff only")
+
+def algo():
+    print("Hello from algo ji")
+
+algo()
